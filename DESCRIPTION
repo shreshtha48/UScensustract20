@@ -1,14 +1,11 @@
-Package: uscensustract
-Type: Package
-Title: Provides access to the tract level data for the 2020 census redistricting files for various states
-Version: 0.1.0
-Author: Shreshtha Modi
-Maintainer: Shreshtha Modi <modishreshtha48@gmail.com>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Package: UScensustract20
+Title: Provides tract level data for the 2020 United States census
+Version: 0.0.0.9000
+Authors@R: 
+    person("Shreshtha", "Modi", , "modishreshtha48@gmail.com", role = c("aut", "cre"))
+Description:  A data package for the US census 2020 package. Provides tract level data and related shapefiles
+License: GPL (>= 3)
 Encoding: UTF-8
-LazyData: true
-Depends: 
-    R (>= 2.10)
-RoxygenNote: 7.2.0
+Language: es
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
